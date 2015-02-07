@@ -780,16 +780,19 @@ the Delineation requires no other directions then the former.</p>
 two hours above, and two hours beneath each end of the Horizon<g ref="char:EOLhyphen"/>tal
 Line to be expreſſed, and the Stile will have the ſame Elevation
 and point upward.</p>
-               <figure>
-                  <p>
-                     <figure>
-                        <head>Horizontall Diall</head>
-                     </figure>
-                     <figure>
-                        <head>An Vpright South Diall</head>
-                     </figure>
-                  </p>
-               </figure>
+               <p>
+                  <pb facs="tcp:61099:11"/>
+                  <figure>
+                     <p>
+                        <figure>
+                           <head>Horizontall Diall</head>
+                        </figure>
+                        <figure>
+                           <head>An Vpright South Diall</head>
+                        </figure>
+                     </p>
+                  </figure>
+               </p>
                <p>
                   <pb facs="tcp:61099:12"/>
                   <pb n="9" facs="tcp:61099:12"/>
@@ -819,7 +822,10 @@ parallel to the Axis, and are called Polar plains; in theſe the Hour
 Lines will be Tangent Lines of any aſſumed Radius, and the paral<g ref="char:EOLhyphen"/>lel
 height of the ſtile above the plain, muſt be made equal to the Radi<g ref="char:EOLhyphen"/>us
 of the Tangent, by which the hours were ſet off.</p>
-               <figure/>
+               <p>
+                  <pb n="10" facs="tcp:61099:13"/>
+                  <figure/>
+               </p>
                <p>Firſt draw the Tangent line CG, and perpendicular thereto ACB,
 upon C as a Center, with any Radius deſcribe the Quadrant of a
 Circle HB, and prick off the Radius from C to A, from H to E,
@@ -1317,7 +1323,10 @@ to <hi>MF.</hi>
                      </item>
                   </list>
                </p>
-               <figure/>
+               <p>
+                  <pb facs="tcp:61099:19"/>
+                  <figure/>
+               </p>
                <p>
                   <pb facs="tcp:61099:20"/>
                   <pb n="21" facs="tcp:61099:20"/>
@@ -1463,19 +1472,38 @@ of the Latitude, which is made good from this proportion.</p>
                      <p>So is the Radius: To the Sine of the Stiles height.</p>
                   </q>
                </p>
-               <figure>
-                  <p>
-                     <pb facs="tcp:61099:23"/>
-                     <pb facs="tcp:61099:24"/>
+               <p>Admit the Stiles height were calculated, and truely prickt off
+by Chords, I ſay if the Sine of the Latitude be made a Radius, as
+the ſide of the ſquare is in Latitudes above 45<hi rend="sup">d</hi> and as AF is in Lati<g ref="char:EOLhyphen"/>tudes
+under 45<hi rend="sup">d</hi> the Radius to the ſaid Sine will become the Coſe<g ref="char:EOLhyphen"/>cant
+of the Latitude; now we ſhall prove that VK is the Coſecant
+of the Latitude, the three ſquares IK, IO, and OV, are equal to the
+ſquare of VK, as before aſſerted, two of theſe ſquares IK and IO
+are equal to the ſquare of the Radius, the third ſquare, <hi>viz.</hi> of VO
+is the ſquare of the Cotangent of the Latitude, but the ſquare of
+the Radius, more the ſquare of the Cotangent of the Latitude is
+equal to the ſquare of the Coſecant of the Latitude; I ſay then, if
+from K a perpendicular be let fall to VI, ſo as that it may be equal
+to the Coſine of the Re-Inclination ſhall prick off the Stile true by the
+directions for pricking off an Angle by Sines, whereto the proportion
+for the Stiles height is ſuited and would paſs through the point I, by
+<figure>
+                     <p>
+                        <pb facs="tcp:61099:23"/>
+                        <pb facs="tcp:61099:24"/>
 page 25
 <figure>
-                        <head>A West Diall Reclining 50<hi rend="sup">d</hi> Latitude 51 32′</head>
-                     </figure>
-                     <figure>
-                        <head>A South Plaine Declining 40<hi rend="sup">d</hi> East Inclining 15 deg</head>
-                     </figure>
-                  </p>
-               </figure>
+                           <head>A West Diall Reclining 50<hi rend="sup">d</hi> Latitude 51 32′</head>
+                        </figure>
+                        <figure>
+                           <head>A South Plaine Declining 40<hi rend="sup">d</hi> East Inclining 15 deg</head>
+                        </figure>
+                     </p>
+                  </figure>
+                  <pb n="25" facs="tcp:61099:24"/>
+reaſon of the equality of the three ſquares to the ſquare of <hi>VK,</hi> then
+by conſequence the contrary follows, having the point I firſt given,
+the Point K may be found according to the preſcribed Conſtru<g ref="char:EOLhyphen"/>ction.</p>
                <q>A Weſt Plain, Reclining 50 degrees, Latitude
 51 degrees, 32 minutes.</q>
                <p>The Point Sol, Subſtile, Stile, and hour-lines, are all found after the
@@ -2870,17 +2898,29 @@ R☉ is a Quadrant; now the Coſine of an Ark greater then a Qua<g ref="char:EOL
 is the Sine of that Arks exceſs above a Quadrant, wherefore
 the Sine of S☉ is the Coſine of the ſum of both the Reclinations,
 and the Caſe the ſame as before.</p>
-               <figure>
-                  <p>  
-                     <figure>
-                        <head>A South plaine Declin 40<hi rend="sup">d</hi> East Inclining 15<hi rend="sup">d</hi> Lat 51<hi rend="sup">d</hi> 72′</head>
-                     </figure>
-                     <hi>page</hi> 56
+               <p>The Arch RH is the meaſure of the Subſtiles diſtance from the
+<pb facs="tcp:61099:45"/>
+                  <figure>
+                     <p>  
+                        <figure>
+                           <head>A South plaine Declin 40<hi rend="sup">d</hi> East Inclining 15<hi rend="sup">d</hi> Lat 51<hi rend="sup">d</hi> 72′</head>
+                        </figure>
+                        <hi>page</hi> 56
   <figure>
-                        <head>A North plain Declin 40<hi rend="sup">d</hi> East Reclin 75<hi rend="sup">d</hi> lat 51<hi rend="sup">d</hi> 32′</head>
-                     </figure>
-                  </p>
-               </figure>
+                           <head>A North plain Declin 40<hi rend="sup">d</hi> East Reclin 75<hi rend="sup">d</hi> lat 51<hi rend="sup">d</hi> 32′</head>
+                        </figure>
+                     </p>
+                  </figure>
+                  <pb facs="tcp:61099:46"/>
+                  <pb n="59" facs="tcp:61099:46"/>
+Plains perpendicular, which being greater then a Quadrant, ſhews that
+the Subſtile muſt lye below the end of the Horizontal Line oppoſite
+to the Coaſt of Declination, to wit, it muſt be depreſſed 32<hi rend="sup">d</hi> 39′
+meaſured by the Arch KT, the complement of TA its diſtance from
+the plains perpendicular, the point T being found by laying a Ruler
+from ☉ to H, which may alſo be meaſured from F, and will fall
+above the Horizontal Line D, but then muſt be drawn through the
+Center.</p>
                <p>Prick off a Quadrant from G to X, and draw XC, it cuts the plain
 at Y, a Ruler laid from Y to H, and <hi>P</hi> findes the points 2, 3 in the
 Limbe, and the Arch 2, 3 being 61<hi rend="sup">d</hi> 31′, is the Stiles height; orther
@@ -2958,17 +2998,24 @@ South ſide of this plain, then 23 minutes paſt 4 in the afternoon.</p>
                <p>In like manner if the Arch of a Circle be drawn through the
 two points <hi>PV,</hi> we may finde the time when the Sun will ſooneſt in
 the morning begin to ſhine on the South ſide of this plain.</p>
-               <figure>
-                  <p>  
-                     <figure>
-                        <head>A South plaine Declin 30<hi rend="sup">d</hi> East lat 51<hi rend="sup">d</hi> 32′</head>
-                     </figure>
-                     <hi>page</hi> 61
+               <p>The Angle <hi>QPZ</hi> may be found by Calculation in the right Ang<g ref="char:EOLhyphen"/>gled
+<pb facs="tcp:61099:47"/>
+                  <pb facs="tcp:61099:48"/>
+                  <figure>
+                     <p>  
+                        <figure>
+                           <head>A South plaine Declin 30<hi rend="sup">d</hi> East lat 51<hi rend="sup">d</hi> 32′</head>
+                        </figure>
+                        <hi>page</hi> 61
   <figure>
-                        <head>A South plaine Declin 60<hi rend="sup">d</hi> East Reclining 40<hi rend="sup">d</hi> Lat 51-32′</head>
-                     </figure>
-                  </p>
-               </figure>
+                           <head>A South plaine Declin 60<hi rend="sup">d</hi> East Reclining 40<hi rend="sup">d</hi> Lat 51-32′</head>
+                        </figure>
+                     </p>
+                  </figure>
+                  <pb n="61" facs="tcp:61099:48"/>
+triangle <hi>PQZ,</hi> in which beſides the right Angle at <hi>Q,</hi> the
+ſide <hi>PZ</hi> and the Angle <hi>QZP,</hi> are given but to meaſure it off by
+Projection will be ſufficient for the Dyalliſts uſe.</p>
                <p>So if there were a South plain Declining 60<hi rend="sup">d</hi> Eaſtwards,
 Reclining 40 degrees here repreſented by BRA, if it were re<g ref="char:EOLhyphen"/>quired
 to know what hours are proper for the upper, and
@@ -3113,35 +3160,51 @@ required.</p>
 Latitude 51 degrees, 32 minutes.</head>
                <p>Firſt draw the Meridian or Plains perpendicular CN, and upon
 C as a Center, with the Radius of the Dyalling Scheam, deſcribe</p>
-               <figure>
-                  <p>
-                     <figure>
-                        <head>A South plained Declin 40<hi rend="sup">d</hi> East Reclining 60<hi rend="sup">d</hi> Lat 51<hi rend="sup">d</hi> 32′</head>
-                        <p>
-                           <hi>page</hi> 64</p>
-                     </figure>
-                     <figure>
-                        <head>A North plaine Declin 60 West Inclining 60<hi rend="sup">d</hi> Lat 51-32′</head>
-                        <p>
-                           <hi>place this any where</hi>
-                        </p>
-                     </figure>
-                  </p>
-               </figure>
+               <p>
+                  <pb facs="tcp:61099:50"/>
+                  <figure>
+                     <p>
+                        <figure>
+                           <head>A South plained Declin 40<hi rend="sup">d</hi> East Reclining 60<hi rend="sup">d</hi> Lat 51<hi rend="sup">d</hi> 32′</head>
+                           <p>
+                              <hi>page</hi> 64</p>
+                        </figure>
+                        <figure>
+                           <head>A North plaine Declin 60 West Inclining 60<hi rend="sup">d</hi> Lat 51-32′</head>
+                           <p>
+                              <hi>place this any where</hi>
+                           </p>
+                        </figure>
+                     </p>
+                  </figure>
+               </p>
                <pb facs="tcp:61099:51"/>
                <pb facs="tcp:61099:51"/>
                <pb facs="tcp:61099:52"/>
-               <figure>
-                  <p>
-                     <hi>page</hi> 65
+               <p>
+                  <figure>
+                     <p>
+                        <hi>page</hi> 65
 <figure>
-                        <head>A South plaine Declin 30<hi rend="sup">d</hi> West Latitude 51<hi rend="sup">d</hi> 32′</head>
-                     </figure>
-                     <figure>
-                        <head>A South Diall Declin 40<hi rend="sup">d</hi> East Inclin 15<hi rend="sup">d</hi> Lat 51<hi rend="sup">d</hi> 32′</head>
-                     </figure>
-                  </p>
-               </figure>
+                           <head>A South plaine Declin 30<hi rend="sup">d</hi> West Latitude 51<hi rend="sup">d</hi> 32′</head>
+                        </figure>
+                        <figure>
+                           <head>A South Diall Declin 40<hi rend="sup">d</hi> East Inclin 15<hi rend="sup">d</hi> Lat 51<hi rend="sup">d</hi> 32′</head>
+                        </figure>
+                     </p>
+                  </figure>
+                  <pb n="65" facs="tcp:61099:52"/>
+an Occult Ark, wherein prick off NT from the aforeſaid Scheam, and
+draw TC for the Subſtile; alſo ſet off in the ſaid Ark TK equal to
+TK of the beforementioned Scheam, and draw KC for the Stile;
+perpendicular to the Meridian paſſing through the Center C, draw
+the Plains Horizontal Line, and therein from the Center prick down
+from C to F, the Cotangent of the Latitude, to wit, BF upon which
+the Sine of the Declination is to be erected to the ſame Radius, and
+the neareſt diſtance from A to DV in that Scheam, is the Sine of the
+declination, which being prickt on the perpendicular FG, draw a
+Line from the point G into the Center, and it ſhall be the hour-line
+of ſix.</p>
                <p>In Latitudes under 45<hi rend="sup">d</hi> the ſide of the ſquare AV muſt be aſſumed
 to be the Cotangent of the Latitude, the Radius whereto will be AF
 the Tangent of the Latitude, to which Radius being prickt on the
@@ -3179,7 +3242,36 @@ CB, and make BQ equal to BC, then take the extent PQ on the
 dyal, and upon Q as a Center deſcribe the Ark Y therewith, and
 draw the Line YC juſt touching the extreamity, then you may pro<g ref="char:EOLhyphen"/>portion
 out the hours in this manner.</p>
-               <figure/>
+               <p>The neareſt diſtance from <hi>D</hi> to YC in the Tangent Scheam, being
+prickt on the ſide of the Parallelogram from P and Q, will finde the
+points 10 and 2, through which thoſe hour-lines are to paſs, alſo the
+neareſt diſtance from E to YC, being there prickt, findes the points
+11 and 1 as before, otherwiſe take the extent PL from the Dyal, and
+in the Tangent Scheam upon C as a Center, deſcribe the Ark N
+therewith, and draw BN juſt touching the outward extreamity of
+that Ark, the neareſt diſtance from E to BN, prick in the Dyal from
+L to 11 and 1, and the neareſt diſtance from D to BN, place from L
+to 10 and 2, thus you have found points through which part of the
+hour-lines are to be drawn into the Center at C; or having found
+the points P and Q on the plain, if it be deſired to inſcribe the
+hours without drawing the ſide of the Parallelogram PQ, which muſt
+alſo be performed without the help of Compaſſes, though they be at
+hand, then in the Tangent Scheam prick the extents E and D, from
+B to I and K, and through the reſpective points C, D, E, B, I, K, Q,
+draw lines all parallel one to another, making any Angle at pleaſure
+with the ſaid Line, I ſay then that any line ruled over thoſe parallels,
+ſhall be divided into a line of double tangents, as is LM, which is made
+<pb n="67" facs="tcp:61099:53"/>
+                  <figure/>
+                  <pb n="68" facs="tcp:61099:54"/>
+equal to PQ, the ſide of the Parallelogram in the former Dyal, if
+therefore you double the Paper in the line LM, and apply the points
+L, M to the points QP on the plain, you may by the edge of this
+Paper Tangent Scheam ſo doubled, prick down the hour points on
+the plain, and lines drawn through them into the Center, ſhall be
+the hour-lines required, and making BO equal to the ſides of the
+Parallelogram HP or IQ, and it ſhall contain the hour diſtances to
+be transferred into the ſaid ſides.</p>
                <p>If a line be drawn in the Dyal from H to L, and from L to I, the
 hour-lines being drawn ſhall divide each of theſe lines into a double
 Tangent, and conſequently the hour-lines may alſo be prickt off on
@@ -3302,7 +3394,24 @@ demonſtrates one, performed by help of three ſhadows of an up<g ref="char:EOLh
 Stile on a Horizontal Plain, publiſhed firſt without Demonſtra<g ref="char:EOLhyphen"/>tion
 in an <hi>Italian</hi> book of dyalling by <hi>Mutio Oddi.</hi>
                </p>
-               <figure/>
+               <p>
+                  <figure/>
+Let AB, AC, and
+<hi>AD</hi> repreſent 3
+ſhadows made on
+a Horizontal plain
+in one day, by the
+ſhadow of the ſtile
+or wyre AE, erect<g ref="char:EOLhyphen"/>ed
+perpendicularly
+from the point A,
+of which ſhadows
+if two be found e<g ref="char:EOLhyphen"/>qual,
+a line let fall
+perpendicularly
+<pb n="71" facs="tcp:61099:57"/>
+from the Point A, upon a line joyning, the extremities of thoſe
+two ſhadows, ſhall be a true Meridian line.</p>
                <p>But if all three be unequal, as let AC be the leaſt, erect three
 lines from the point A, perpendicular to AP, AC, AD as is AF, AG,
 and AH equal to the Stiles height AE, and draw lines from the ex<g ref="char:EOLhyphen"/>treamities
@@ -3375,7 +3484,13 @@ of the Sun, which becauſe this Scheam doth not perform of it ſelf, I
 Horizontal Plain, to finde a true Meridian Line, and conſequently
 the Azimuths of thoſe ſhadows, the Latitude of the place, the Suns
 Amplitude and Declination.</p>
-               <figure/>
+               <p>
+                  <pb n="73" facs="tcp:61099:58"/>
+                  <figure/>
+It will be convenient to take two ſhadows, when the Sun is on one
+ſide of the Meridian, and the third when on the other ſide<g ref="char:punc">▪</g> and the
+performance will be moſt exact when the Sun is near the Summer
+Solſtice</p>
                <list>
                   <item>Let the three ſhadows be CA, the Altitude whereto is AF 22<hi rend="sup">d</hi>, 28′</item>
                   <item>The ſecond ſhadow CB, the Altitude whereto is BG 59<hi rend="sup">d</hi>, 21′
@@ -3592,26 +3707,46 @@ Stile, and the extremity of that ſhadow will be the Radius: now
 from the lengths of the three ſhadows, and the height of the per<g ref="char:EOLhyphen"/>pendicular
 Stile, it will be eaſie to find the Sines and the Coſines of
 the Angles between the wall and the Sun.</p>
-               <figure>
-                  <p>
-                     <figure>
-                        <head>fig. 1<hi rend="sup">a</hi>
-                        </head>
-                     </figure>
-                     <figure>
-                        <head>fig. 2<hi rend="sup">a</hi>
-                        </head>
-                     </figure>
-                     <figure>
-                        <head>fig. 3<hi rend="sup">a</hi>
-                        </head>
-                     </figure>
-                     <figure>
-                        <head>fig. 4<hi rend="sup">a</hi>
-                        </head>
-                     </figure>
-                  </p>
-               </figure>
+               <p>In the following figure, let the Circle be ſuppoſed to be deſcribed
+upon a leaning Plain, on which let AB repreſent a Stile ſtuck in at
+randome, the extremity of the three ſhadows whereto are the points
+D, E, F, firſt find the perpendicular Stile thereto CB. and from C
+draw lines to the three ſhadowes: now to find the Sines and Co<g ref="char:EOLhyphen"/>ſines
+of the Angles between the wall and the Sun, aſſuming CB to be
+the Sine of the greateſt Altitude, make CB in the ſecond figure equal
+thereto, and perpendicular thereto raiſe the Line CF, wherein prick
+down the three ſhadows CE, CD, &amp; CF, and upon B as a Center with
+the extent BE deſcribe the Quadrant GA, drawing lines from the
+three ſhadowes into B the Center, and the Arks GE, GI, GH, are
+the three Angles between the wall and the Sun, and the neareſt
+<pb facs="tcp:61099:61"/>
+                  <pb facs="tcp:61099:62"/>
+
+                  <figure>
+                     <p>
+                        <figure>
+                           <head>fig. 1<hi rend="sup">a</hi>
+                           </head>
+                        </figure>
+                        <figure>
+                           <head>fig. 2<hi rend="sup">a</hi>
+                           </head>
+                        </figure>
+                        <figure>
+                           <head>fig. 3<hi rend="sup">a</hi>
+                           </head>
+                        </figure>
+                        <figure>
+                           <head>fig. 4<hi rend="sup">a</hi>
+                           </head>
+                        </figure>
+                     </p>
+                  </figure>
+
+                  <pb n="79" facs="tcp:61099:62"/>
+diſtances from the points E, I, H, being taken to GB, are the Sines
+thereof, alſo the neareſt diſtances from thoſe Points to AB, are the
+Coſines thereof.</p>
                <p>Being thus prepared, draw three Lines elſewhere as in the third fi<g ref="char:EOLhyphen"/>gure
 meeting in a Center, and making the like Angles as the ſhadows
 did, and let them be produced beyond that Center, and have the
